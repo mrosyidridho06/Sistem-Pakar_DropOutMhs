@@ -4,14 +4,15 @@
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="website sistem pakar">
-    <meta name="author" content="mr k">
+    <meta name="author" content="kel4">
     <link rel="icon" href="image/icon.png">
 
     <title>Sistem Pakar</title>
 
     <!-- Bootstrap core CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="https://getbootstrap.com/docs/4.1/dist/css/bootstrap.min.css" crossorigin="anonymous">
-
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
 </head>
@@ -96,17 +97,97 @@
                 </div>
               </form>
             </div>
-            
           </div>
         </div>
       </div>
-      
 
+<!-- halaman isi -->
+<div class="container">
+  <div class="row justify-content-md-center">
+<section class="team-section text-center my-5">
+    <h2 class="h1-responsive font-weight-bold my-5">Our amazing team</h2>
+<!-- Section description -->
+<p class="grey-text w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+  Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
+  eum porro a pariatur veniam.</p>
 
+<!-- Grid row -->
+    <div class="row">
+
+      <!-- Grid column -->
+      <div class="col-lg-4">
+        <div class="avatar mx-auto">
+          <img src="image/ridho.jpg" width="160" height="160" class="rounded-circle"
+            alt="Sample avatar">
+        </div>
+        <h5 class="font-weight-bold mt-4 mb-3">Rosyid Ridho</h5>
+        <p class="text-uppercase blue-text"><strong>Graphic designer</strong></p>
+        <p class="grey-text">Tes12</p>
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-4">
+        <div class="avatar mx-auto">
+          <img src="image/ridho.jpg" width="160" height="160" class="rounded-circle"
+            alt="Sample avatar">
+        </div>
+        <h5 class="font-weight-bold mt-4 mb-3">John Doe</h5>
+        <p class="text-uppercase blue-text"><strong>Web developer</strong></p>
+        <p class="grey-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ipsa accusantium
+          doloremque rem laudantium totam aperiam.</p>
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-4">
+        <div class="avatar mx-auto">
+          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg" width="160" height="160" class="rounded-circle z-depth-1"
+            alt="Sample avatar">
+        </div>
+        <h5 class="font-weight-bold mt-4 mb-3">Maria Smith</h5>
+        <p class="text-uppercase blue-text"><strong>Photographer</strong></p>
+        <p class="grey-text">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+          mollit anim est fugiat nulla id eu laborum.</p>
+          <br>
+      </div>
+      <!-- Grid column -->
+          
+      <!-- Grid column -->
+      <div class="col-lg-6 col-md-6">
+        <div class="avatar mx-auto">
+          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(32).jpg" width="160" height="160" class="rounded-circle z-depth-1"
+            alt="Sample avatar">
+        </div>
+        <h5 class="font-weight-bold mt-4 mb-3">Tom Adams</h5>
+        <p class="text-uppercase blue-text"><strong>Backend developer</strong></p>
+        <p class="grey-text">Perspiciatis repellendus ad odit consequuntur, eveniet earum nisi qui consectetur
+          totam officia voluptates perferendis voluptatibus aut.</p>
+      </div>
+      <!-- Grid column -->
+      <!-- Grid column -->
+      <div class="col-lg-6 col-md-6">
+        <div class="avatar mx-auto">
+          <img src="image/Rosyid.jpg" width="160" height="160" class="rounded-circle z-depth-1"
+            alt="Sample avatar">
+        </div>
+        <h5 class="font-weight-bold mt-4 mb-3">Tom Adams</h5>
+        <p class="text-uppercase blue-text"><strong>Backend developer</strong></p>
+        <p class="grey-text">Perspiciatis repellendus ad odit consequuntur, eveniet earum nisi qui consectetur
+          totam officia voluptates perferendis voluptatibus aut.</p>
+      </div>
+      <!-- Grid column -->
+    </div>
+</div>
+<!-- Grid row -->
+
+</section>
+<!-- Section: Team v.1 -->
+</div>
 
     </main>
     <footer class="container">
-      <h1 align = center>Kelompok 4 B</h1>
+      <a align = center>Kelompok 4 2021</a>
     </footer>
 
 	<!-- Bootstrap core JavaScript
