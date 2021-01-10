@@ -117,38 +117,36 @@
       <!-- Grid column -->
       <div class="col-lg-4">
         <div class="avatar mx-auto">
-          <img src="image/ridho.jpg" width="160" height="160" class="rounded-circle"
+          <img src="image/angga (1).jpg" width="160" height="160" class="rounded-circle"
             alt="Sample avatar">
         </div>
-        <h5 class="font-weight-bold mt-4 mb-3">Rosyid Ridho</h5>
-        <p class="text-uppercase blue-text"><strong>Graphic designer</strong></p>
-        <p class="grey-text">Tes12</p>
+        <h5 class="font-weight-bold mt-4 mb-3">Anggara Azis Saputra</h5>
+        <!-- <p class="text-uppercase blue-text"><strong>Graphic designer</strong></p> -->
+        <p class="grey-text">11181012</p>
       </div>
       <!-- Grid column -->
 
       <!-- Grid column -->
       <div class="col-lg-4">
         <div class="avatar mx-auto">
-          <img src="image/ridho.jpg" width="160" height="160" class="rounded-circle"
+          <img src="image/rizky (1).jpg" width="160" height="160" class="rounded-circle"
             alt="Sample avatar">
         </div>
-        <h5 class="font-weight-bold mt-4 mb-3">John Doe</h5>
-        <p class="text-uppercase blue-text"><strong>Web developer</strong></p>
-        <p class="grey-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ipsa accusantium
-          doloremque rem laudantium totam aperiam.</p>
+        <h5 class="font-weight-bold mt-4 mb-3">Muhammad Rizky Al Rachman</h5>
+        <!-- <p class="text-uppercase blue-text"><strong>Web developer</strong></p> -->
+        <p class="grey-text">11181062</p>
       </div>
       <!-- Grid column -->
 
       <!-- Grid column -->
       <div class="col-lg-4">
         <div class="avatar mx-auto">
-          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg" width="160" height="160" class="rounded-circle z-depth-1"
+          <img src="image/ridho.jpg" width="160" height="160" class="rounded-circle z-depth-1"
             alt="Sample avatar">
         </div>
-        <h5 class="font-weight-bold mt-4 mb-3">Maria Smith</h5>
-        <p class="text-uppercase blue-text"><strong>Photographer</strong></p>
-        <p class="grey-text">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-          mollit anim est fugiat nulla id eu laborum.</p>
+        <h5 class="font-weight-bold mt-4 mb-3">Muhammad Rosyid Ridho</h5>
+        <!-- <p class="text-uppercase blue-text"><strong>Photographer</strong></p> -->
+        <p class="grey-text">11181064</p>
           <br>
       </div>
       <!-- Grid column -->
@@ -156,39 +154,33 @@
       <!-- Grid column -->
       <div class="col-lg-6 col-md-6">
         <div class="avatar mx-auto">
-          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(32).jpg" width="160" height="160" class="rounded-circle z-depth-1"
+          <img src="image/ody.jpg" width="160" height="160" class="rounded-circle z-depth-1"
             alt="Sample avatar">
         </div>
-        <h5 class="font-weight-bold mt-4 mb-3">Tom Adams</h5>
-        <p class="text-uppercase blue-text"><strong>Backend developer</strong></p>
-        <p class="grey-text">Perspiciatis repellendus ad odit consequuntur, eveniet earum nisi qui consectetur
-          totam officia voluptates perferendis voluptatibus aut.</p>
+        <h5 class="font-weight-bold mt-4 mb-3">Rizki Audia Putri</h5>
+        <!-- <p class="text-uppercase blue-text"><strong>Backend developer</strong></p> -->
+        <p class="grey-text">11181076</p>
       </div>
       <!-- Grid column -->
       <!-- Grid column -->
       <div class="col-lg-6 col-md-6">
         <div class="avatar mx-auto">
-          <img src="image/Rosyid.jpg" width="160" height="160" class="rounded-circle z-depth-1"
+          <img src="image/taca (1).jpg" width="160" height="160" class="rounded-circle z-depth-1"
             alt="Sample avatar">
         </div>
-        <h5 class="font-weight-bold mt-4 mb-3">Tom Adams</h5>
-        <p class="text-uppercase blue-text"><strong>Backend developer</strong></p>
-        <p class="grey-text">Perspiciatis repellendus ad odit consequuntur, eveniet earum nisi qui consectetur
-          totam officia voluptates perferendis voluptatibus aut.</p>
+        <h5 class="font-weight-bold mt-4 mb-3">Tasya Putri Ramadhani</h5>
+        <!-- <p class="text-uppercase blue-text"><strong>Backend developer</strong></p> -->
+        <p class="grey-text">11181080</p>
       </div>
       <!-- Grid column -->
     </div>
 </div>
-<!-- Grid row -->
-
-</section>
-<!-- Section: Team v.1 -->
 </div>
 
     </main>
-    <footer class="container">
-      <a align = center>Kelompok 4 2021</a>
-    </footer>
+<footer>
+  <p align="center">&copy; Kelompok 4 2021</p>
+</footer>
 
 	<!-- Bootstrap core JavaScript
     ================================================== -->
